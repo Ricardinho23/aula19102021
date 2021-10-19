@@ -1,0 +1,28 @@
+repositorio: os dados de cada projeto;
+onde os arquivos e codigos ficam armazenados do projeto
+Onde faz o controle de versões de um projeto
+onde a gente pode armazenar e guardar o historico de mudanças do projeto
+------------------------------------------------------------------------------------
+Livro Avalie o que importa
+treinamento de equipes ageis
+------------------------------------------------------------------------------------
+comando: commit =  onde faz a fotografia/executa o codigo
+main ou master = produção
+------------------------------------------------------------------------------------
+Criação do arquivo Dados.html
+PROJETO: 01
+DESCRIÇÃO: criação de página para armazenamento do nome do usuário do sistema
+------------------------------------------------------------------------------------
+colocar isso: merge: Merge da versao 1 para versao Main, corrigindo procedure de consulta de usuario.
+-------------------------------------------------------------------------------------------------------
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Aula de git hub - 05-10-2021
+
+CI: controle e gerenciamento de fontes
+----------------------------------------
+--->git nore: conjunto de arquivos
+
+a main deve ser o espelho da produção
+
+
+
